@@ -6,8 +6,6 @@ The Spotify Clone Project aims to replicate the functionalities and user experie
 # Technologies Used:
 HTML: Used for structuring the content of the web page.
 CSS: Utilized for styling the elements and layout of the web page.
-HTML: Used for structuring the content of the web page.
-CSS: Utilized for styling the elements and layout of the web page.
 
 # Project Structure:
 Index.html: The main landing page of the Spotify Clone Website, featuring navigation to different sections.
