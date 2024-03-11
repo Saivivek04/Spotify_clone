@@ -4,8 +4,8 @@
 The Spotify Clone Project aims to replicate the functionalities and user experience of the popular music streaming service, Spotify. Developed using HTML and CSS, this project seeks to provide users with a familiar interface for seamless navigation, playlist management, music discovery, and personalized recommendations.
 
 # Technologies Used:
-HTML: Used for structuring the content of the web page.
-CSS: Utilized for styling the elements and layout of the web page.
+- HTML: Used for structuring the content of the web page.
+- CSS: Utilized for styling the elements and layout of the web page.
 
 # Project Structure:
 Index.html: The main landing page of the Spotify Clone Website, featuring navigation to different sections.
